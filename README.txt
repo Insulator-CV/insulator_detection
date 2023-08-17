@@ -1,0 +1,1 @@
+This is the code folder for insulator overheating defect detection. The code is about to be released.
